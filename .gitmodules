@@ -1,0 +1,3 @@
+[submodule "spotify-visual-map"]
+	path = spotify-visual-map
+	url = https://github.com/sg-i/spotify-visual-map.git
