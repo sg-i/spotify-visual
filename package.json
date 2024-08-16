@@ -1,0 +1,25 @@
+{
+  "name": "spotify-visual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --max-old-space-size=4096 index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/numeric": "^1.2.6",
+    "@types/papaparse": "^5.3.14",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/d3": "^6.7.0",
+    "compute-cosine-similarity": "^1.1.0",
+    "d3": "^6.7.0",
+    "nodemon": "^3.1.4",
+    "papaparse": "^5.4.1",
+    "ts-node": "^10.9.2"
+  }
+}
